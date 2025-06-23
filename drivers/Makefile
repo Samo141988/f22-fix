@@ -203,7 +203,7 @@ obj-$(CONFIG_SPU_VERIFY) += spu_verify/
 obj-$(CONFIG_UH)		+= uh/
 
 # OLOG
-obj-y				+= kperfmon/
+
 obj-y += misc/drb/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 obj-y += vibrator/common/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
 obj-y += sensorhub/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT
